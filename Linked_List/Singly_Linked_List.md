@@ -7,7 +7,7 @@ typedef struct Node{
   struct Node * Next;
 }Node;
 ```
-## Operation on Singly linked List 
+## Operation's on Singly linked List 
 
 1. **Creation** of Empty linked list
 
